@@ -1,0 +1,17 @@
+{
+  "name": "cc-plugins",
+  "owner": {
+    "name": "Yeongyeon Lee",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "UX",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/UX/shucle-decision-history"
+      ]
+    }
+  ]
+}
